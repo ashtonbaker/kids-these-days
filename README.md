@@ -8,5 +8,5 @@ Chrome extension that replaces occurrences of 'millennials' with 'kids these day
 Installation
 ------------
 1. [Download KidsTheseDays.crx](https://github.com/ashtonbaker/kids-these-days/blob/master/KidsTheseDays.crx?raw=true)
-2. In Chrome, go to the <a href="chrome://extensions">Extensions</a> page.
+2. In Chrome, go to the Extensions page (chrome://extensions).
 3. Drag KidsTheseDays.crx into the extensions page.
