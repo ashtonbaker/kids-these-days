@@ -13,6 +13,11 @@ Installation
 2. In Chrome, go to the Extensions page (chrome://extensions).
 3. Drag KidsTheseDays.crx into the extensions page.
 
+OR
+
+1. Download the extension from the [Chrome Web Store](https://chrome.google.com/webstore/detail/kids-these-days/efghahofmkhhoakkaiennfjolkgkdgfk)
+
+
 Example
 ------------
 ![](Source/screenshot.png)
